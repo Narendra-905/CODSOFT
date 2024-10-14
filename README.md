@@ -1,1 +1,10 @@
 # CODSOFT
+
+# SMS SPAM DETECTION
+This project involves developing an AI model to classify SMS messages as spam or legitimate, completed during my Codsoft Internship. Utilizing the SMS Spam Collection Dataset from Kaggle, the model employs Term Frequency-Inverse Document Frequency (TF-IDF) for feature extraction and classifiers such as Naive Bayes, Logistic Regression, and Support Vector Machines (SVM). The dataset is preprocessed to convert labels to binary values, and the data is split into training and testing sets. The models are trained and evaluated using accuracy, precision, recall, and F1-score, with ROC and Precision-Recall curves plotted for performance visualization. This project has significantly enhanced my skills in machine learning and data science, and I look forward to applying these competencies to future challenges.
+
+# CREDIT CARD FRAUD DETECTION
+This project focuses on detecting fraudulent credit card transactions using machine learning algorithms. Utilizing the Credit Card Fraud Detection dataset from Kaggle, I experimented with Logistic Regression, Decision Trees, and Random Forests to classify transactions as fraudulent or legitimate. The project involved data preprocessing, handling class imbalance, and evaluating model performance using metrics such as Precision, Recall, F1-Score, and ROC-AUC. The Random Forest model achieved the highest accuracy, demonstrating the effectiveness of ensemble methods in fraud detection
+
+# CUSTOMER CHURN PREDICTION
+This project aims to predict customer churn using machine learning models such as Logistic Regression, Random Forest, and Gradient Boosting. The dataset used is “Churn_Modelling.csv,” which includes various customer attributes. The project involves data preprocessing, feature engineering, model training, and evaluation. Additionally, visualizations such as confusion matrices, feature importance plots, and correlation heatmaps are included to provide insights into the data and model performance. This project was completed as part of a solo remote internship with Codsoft, enhancing my skills in data science and machine learning.
